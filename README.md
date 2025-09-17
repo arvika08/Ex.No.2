@@ -1,7 +1,7 @@
 # Ex.No: 2  
 ## Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta  
 
-**DATE: 19.08.2025**  
+
 **REGISTER NUMBER: 212223060023**  
 
 ---
@@ -41,6 +41,98 @@ To compare the performance, user experience, and response quality of different A
    - **Relevance**: How closely the response matched the prompt.  
 
 ---
+
+## Prompt 1: Summarization
+
+Paragraph to Summarize:
+
+“Machine learning is a subset of artificial intelligence that enables systems to learn from data rather than explicit programming. Over time, these systems can improve performance on tasks like image recognition, speech processing, and predictive analytics. However, challenges remain in ensuring model interpretability, avoiding bias, and requiring large amounts of high-quality labeled data.”
+
+Outputs:
+
+### ChatGPT:
+
+Machine learning lets systems learn from data instead of being hand-coded.
+
+It powers applications like image recognition, speech processing, and predictive analytics.
+
+Major challenges include interpretability, bias, and the need for large, good-quality labeled datasets.
+
+### Claude:
+
+Machine learning enables systems to improve through data rather than fixed rules.
+
+It’s used for tasks such as recognizing images, processing speech, and making predictions.
+
+Key obstacles are lack of interpretability, bias in models, and dependence on large labeled datasets.
+
+### Bard (Gemini):
+• Machine learning means models learn from examples rather than explicit code.
+• Common uses include image/speech recognition and predictive analytics.
+• Challenges: explaining model decisions, bias issues, and obtaining sufficient labeled data.
+
+### Cohere Command:
+
+Machine learning lets systems learn from data and improve.
+
+Common tasks: image and speech recognition, prediction.
+
+Problems: interpretability, bias, big need for labeled data.
+
+### Meta AI:
+• Machine learning uses data instead of fixed instructions.
+• Applications include recognition and prediction tasks.
+• Main issues: model interpretability, bias, and needing lots of high-quality data.
+
+## Prompt 2: Technical Q&A
+
+Question: Explain the difference between supervised and unsupervised learning.
+
+Outputs:
+
+### ChatGPT:
+Supervised learning uses labeled data (input + correct output) to train models for classification/regression.
+Unsupervised learning uses unlabeled data, discovering hidden patterns (clusters, associations, dimensionality reduction).
+Evaluation differs: supervised has accuracy/error vs. unsupervised uses internal metrics.
+
+### Claude:
+Supervised learning: input features + known labels → model learns mapping.
+Unsupervised learning: no labels, model groups or finds structure in data.
+Key differences: label presence, tasks, evaluation methods, and data requirements.
+
+### Bard (Gemini):
+Supervised learning: trained on labeled examples, good for tasks with ground truth (classification).
+Unsupervised learning: trained on data without labels, useful for clustering, exploration, anomaly detection.
+
+### Cohere Command:
+Supervised = labeled training data, straightforward evaluation.
+Unsupervised = unlabeled data, finds patterns, more exploratory, harder to measure success.
+
+### Meta AI:
+Supervised learning maps inputs → outputs with labels.
+Unsupervised learning detects clusters or patterns without labels.
+Difference: data type, task, and evaluation.
+
+## Prompt 3: Creative Writing
+
+Task: Generate a short creative story about AI in education.
+
+Outputs:
+
+### ChatGPT:
+A school introduced an AI tutor “Mira” who adapted lessons for each student. Mira turned algebra into games, explained history as stories, and gave encouragement. Learning became joyful, and students discovered confidence alongside knowledge.
+
+### Claude:
+At Greenwood Academy, AI “Selene” sang fractions, told history as tales, and encouraged shy students. The class didn’t just learn academics—they learned courage and curiosity.
+
+### Bard (Gemini):
+At Sunrise High, AI “EKI” rolled into classrooms. It helped Luis design games with math and Priya write poetry with rhythm. Learning became an adventure where curiosity was the compass.
+
+### Cohere Command:
+Maplewood School’s AI “Aurora” created mini-games, linked art to history, and gave students confidence. By year’s end, education felt personal and inspiring.
+
+### Meta AI:
+AI mentor “BrightMind” guided students with diagrams and stories. Mistakes became learning steps, and students discovered belief in themselves with AI by their side.
 
 ## Output (Comparison Table):
 
